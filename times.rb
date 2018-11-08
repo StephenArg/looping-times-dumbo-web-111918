@@ -6,4 +6,5 @@ def using_times
       break
     end
     puts 'Wingardium Leviosa'
+  end
 end
